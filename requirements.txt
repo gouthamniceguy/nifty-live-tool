@@ -1,0 +1,4 @@
+streamlit
+websocket-client
+smartapi-python
+pyinstaller==5.11.0
